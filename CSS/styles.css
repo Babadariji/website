@@ -1,0 +1,162 @@
+    body {
+        background-color: #f2f2f2;
+    }
+    
+    header {
+        background-color: black;
+        padding: 0;
+        margin: 0;
+        border-radius: 20px;
+    }
+    
+    nav {
+        padding: 10px;
+        display: block;
+        border-radius: 20px;
+    }
+    
+    nav .item {
+        float: right;
+        padding-top: 10px;
+    }
+    
+    nav .item ul {
+        display: inline;
+        list-style: none;
+    }
+    
+    nav .item ul li {
+        display: inline;
+    }
+    
+    nav .item ul li a {
+        padding: 10px;
+        text-decoration: none;
+        color: #332FD0;
+    }
+    
+    nav .item ul li a:hover {
+        text-decoration: none;
+        color: #FB2576;
+    }
+    
+    .build {
+        border-radius: 20px;
+    }
+    
+    .block1 {
+        width: 1330px;
+        height: 400px;
+        background-color: grey;
+        border-radius: 20px;
+    }
+    
+    .block1 h1 {
+        text-align: center;
+    }
+    
+    .block1 p {
+        margin-left: 20%;
+        margin-right: 50px;
+    }
+    
+    .block1 .text1 {
+        font-size: 20px;
+        color: blue;
+        text-align: justify;
+    }
+    
+    .Service {
+        background-color: #ECE8DD;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    
+    .Service h1 {
+        text-align: center;
+    }
+    
+    .SERVE {
+        display: flex;
+    }
+    
+    .Service .lab1 {
+        padding-right: 20px;
+    }
+    
+    .Gallery {
+        width: 1340px;
+        height: 600px;
+        border-radius: 20px;
+        background-color: #F1DBBF;
+    }
+    
+    .Gallery h1 {
+        position: relative;
+        top: 50px;
+        text-align: center;
+    }
+    
+    .pix {
+        display: flex;
+    }
+    
+    .compt {
+        position: relative;
+        left: 130px;
+        top: 100px;
+        border-radius: 20px;
+    }
+    
+    .paint {
+        position: relative;
+        left: 100px;
+        top: 100px;
+        border-radius: 20px;
+    }
+    
+    .teach {
+        position: relative;
+        left: 70px;
+        top: 100px;
+        border-radius: 20px;
+    }
+    
+    .Aboutus {
+        background-color: blue;
+        width: 1340px;
+        height: 600px;
+        border-radius: 20px;
+    }
+    
+    .Aboutus h1 {
+        position: relative;
+        top: 50px;
+        text-align: center;
+    }
+    
+    .kids {
+        position: relative;
+        left: 740px;
+        bottom: 230px;
+        border-radius: 20px;
+    }
+    
+    .Aboutus p {
+        position: relative;
+        top: 100px;
+        padding: 30px;
+        font-size: 13px;
+        font-family: cursive;
+    }
+    
+    .contactus {
+        background-color: grey;
+        border-radius: 20px;
+        padding: 30px;
+        color: black;
+    }
+    
+    .contactus .CON {
+        text-align: center;
+    }
